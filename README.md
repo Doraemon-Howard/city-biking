@@ -53,8 +53,7 @@ Ensure you have `pip` installed. Then:
 **Run the Script**:  
 `python city_bike_ratings.py`
 
-3.   
-4. **Interaction**:  
+3. **Interaction**:  
    The script will prompt you for a city name. After you enter a city (e.g., “Philadelphia”), it will:  
    * Display that city’s PeopleForBikes biking rating (if found).  
    * Display any bikeshare networks available in that city via the CityBikes API.
